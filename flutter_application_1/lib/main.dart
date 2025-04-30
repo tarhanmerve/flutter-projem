@@ -8,6 +8,8 @@ import 'pages/settings_page.dart';
 //Bilgisayar Mühendisliği bölümü Mobile Application Development dersi kapsamında, 
 //Dr. Öğr. Üyesi FEHİM KÖYLÜ tarafından verilen proje ödevi için hazırlanmıştır.
 //Projede BottomNavigationBar ile üç sayfalı bir yapı oluşturulmuştur.
+//1030510276 - Merve Tarhan
+
 void main() {
   runApp(const MyApp());
 }
