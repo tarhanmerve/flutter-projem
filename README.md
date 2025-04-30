@@ -4,4 +4,4 @@ Bu projede Flutter'da BottomNavigationBar kullanımı ele alınmıştır. Proje 
 
 ## Flutter Navigasyon ve Routing Dökümanı
 
-[Flutter proje dokümanını buradan görüntüleyebilirsiniz](./flutter_dokuman.pdf)
+[Flutter proje dokümanını buradan görüntüleyebilirsiniz](./MobileAppDevelopment_midterm_1030510276.pdf)
